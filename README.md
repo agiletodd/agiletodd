@@ -1,138 +1,179 @@
 
 # Todd Miller
 
-**Technology Leader | Software Builder | AI Practitioner | Educator**
+**Software Builder · Technology Leader · AI Practitioner · Educator**
 
 I'm a software developer turned technology leader who still loves building things.
 
-I work at the intersection of software engineering, artificial intelligence, product development, and education. I've spent much of my career helping organizations and teams build better products, while continuing to write code, experiment with new technologies, and turn ideas into working software.
+My work sits at the intersection of software engineering, artificial intelligence, product development, and developer education. I've spent much of my career helping organizations and teams build better products, while continuing to write code, experiment with new technologies, and turn ideas into working software.
 
-Today, much of my work involves exploring how AI changes what we can build, how quickly we can build it, and how we help people adopt these new capabilities.
+I've led technology teams, taught thousands of developers and technology professionals, written books, and helped organizations navigate complex technical and product challenges.
+
+But I've never stopped building software.
+
+These days, I'm particularly interested in how AI is changing software development — not just what we can build, but how we build it, how quickly we can experiment, and what smaller teams can accomplish.
 
 I believe the best way to understand technology is to actually use it.
 
 ## What I'm Working On
 
-- **AI-assisted development:** Building applications with Claude, AI coding agents, and modern development tools.
-- **AI-enabled products:** Exploring practical applications of LLMs, agentic workflows, and the Model Context Protocol (MCP).
-- **Full-stack engineering:** Designing and building web and mobile applications, from initial concept to deployment.
-- **Product experimentation:** Rapidly validating ideas, learning from real users, and turning promising concepts into useful products.
-- **Developer education:** Helping developers and technology leaders understand and apply emerging technologies.
-
+- **AI Engineering:** Building applications and experimenting with LLM integrations, AI-assisted workflows, and agentic capabilities.
+- **Developer Tooling:** Working with Claude, Claude Code, coding agents, and the Model Context Protocol (MCP).
+- **Full-Stack Development:** Designing and developing web and mobile applications from initial concept through implementation.
+- **Product Experimentation:** Turning ideas into working software, getting feedback, and deciding what's worth pursuing.
+- **Developer Education:** Helping developers and technical leaders understand and apply new technologies through hands-on learning.
 
 ## Products I've Built
 
-I co-own Mako Technology Labs, where my brother and I independently design, build, and ship software products.
+My brother and I started **Mako Technology Labs** as a way for us to continually experiment with new technologies and have fun building apps we find useful for ourselves.
 
-Our work spans AI applications, mobile apps, developer tools, fitness technology, and practical utilities.
+Our work spans mobile development, AI, external data integrations, analytics, and practical utilities.
 
-Most source repositories are private because these are independently owned products, but the applications are real, deployed software.
+Most source repositories are private because these are independently owned products. Some projects become released applications; others remain experiments. Both have taught us a great deal about engineering and product development.
 
 ### BiteSignal
-**Fishing intelligence and forecasting**
+**Fishing Intelligence & Forecasting**
 
-A fishing application combining tidal conditions, weather, barometric pressure, solunar activity, and other environmental data to help anglers identify productive fishing windows.
+An application designed to help anglers make more informed decisions about when and where to fish.
 
-Includes scoring algorithms, fishing forecasts, catch tracking, and analytics.
+- Integrates environmental data including weather, tides, barometric pressure, and solunar activity.
+- Uses scoring algorithms to identify potentially productive fishing conditions.
+- Includes forecasting, catch tracking, and historical analytics.
+
+**Engineering focus:** External API integration, data modeling, algorithms, mobile development, and visualization.
 
 ### RollJournal
-**Brazilian Jiu-Jitsu training and analytics**
+**Brazilian Jiu-Jitsu Training & Analytics**
 
-A training application for tracking classes, sparring sessions, techniques, training partners, and progress over time.
+An application designed to help Brazilian Jiu-Jitsu practitioners track their training and better understand their progress.
 
-Includes training analytics, visualization, and subscription functionality.
+- Tracks training sessions, sparring, techniques, and training partners.
+- Provides analytics and visualizations of training activity.
+- Supports progress tracking and subscription functionality.
 
-### BingeGenie
-**AI-powered entertainment discovery**
-
-An AI-powered streaming recommendation application designed to help users discover what to watch.
-
-### MeetInTheMiddle
-**Location-based group planning**
-
-An application that helps groups identify geographically central places to meet.
+**Engineering focus:** Mobile application development, data modeling, analytics, user experience, and subscriptions.
 
 ### Blue DEF Decoder
-**Practical mobile utility**
+**A Practical Mobile Utility**
 
 A mobile application that decodes Diesel Exhaust Fluid manufacturing codes to help users determine production dates and assess product freshness.
 
+The idea came from a simple problem: information people needed was available, but difficult to interpret.
+
+**Engineering focus:** Domain-specific decoding logic, mobile development, and straightforward user experience.
+
 ### Strength Training Applications
-**Smolov Squat Tracker and Wendler 5/3/1**
 
-Mobile applications designed around established strength-training programs, making it easier to track training progression and workouts.
+I've also built applications supporting the **Smolov squat program**, **Wendler 5/3/1**, and **NextSet**.
 
----
+These focus on simplifying workout tracking, calculating training progression, and making structured strength programs easier to follow.
 
-These projects are developed independently of my professional employment. Source code remains private, but I'm happy to discuss architecture, implementation decisions, and the development process.
+**Engineering focus:** Mobile development, calculations, data persistence, and user-centered design.
 
+## Product Experiments
 
-### TrueNarrative.io
+Not every idea deserves to become a finished product.
 
-A full-stack application exploring how people capture ideas, provide feedback, and contribute to product improvement.
+I enjoy building prototypes to explore technical possibilities and product opportunities. Sometimes those experiments lead to something worth continuing. Other times, the right decision is to move on.
 
-Built with React, Vite, Express.js, Prisma, and PostgreSQL. The project has also been used as a practical learning environment for developers working with modern web technologies.
+Here are two projects we explored at Mako but ultimately discontinued.
 
-**Technologies:** React · JavaScript · Node.js · Express · Prisma · PostgreSQL
+### BingeGenie
+**AI-Powered Entertainment Discovery**
 
-[View Repository](https://github.com/agiletodd/TrueNarrative.io)
+An experiment exploring how AI could help people discover movies and television shows based on their interests and preferences.
+
+The project provided an opportunity to explore LLM integration, recommendation experiences, and consumer-facing AI functionality.
+
+**Status:** Discontinued experiment.
+
+### MeetInTheMiddle
+**Location-Based Group Planning**
+
+An experiment exploring how technology could help groups identify geographically convenient places to meet.
+
+The concept centered on using location information to simplify a common coordination problem.
+
+**Status:** Discontinued experiment.
+
+Both projects reinforced something I believe strongly: shipping software matters, but knowing when to stop investing in an idea matters too.
+
+## Open Source & Technical Projects
+
+### [TrueNarrative.io](https://github.com/agiletodd/TrueNarrative.io)
+
+A full-stack application exploring how people capture ideas, share feedback, and contribute to product improvement.
+
+The project has also served as a practical learning environment for developers working with modern web technologies.
+
+**Stack:** React · Vite · Node.js · Express · Prisma · PostgreSQL
+
+[Explore the source code](https://github.com/agiletodd/TrueNarrative.io)
 
 ## Technologies & Tools
 
-**Languages**
+I've worked across several generations of software development, from traditional enterprise applications to modern web, mobile, and AI-enabled products.
 
-JavaScript · TypeScript · Python · C# · Java · SQL
+| Area | Technologies |
+|------|--------------|
+| **Languages** | TypeScript, JavaScript, Python, C#, SQL |
+| **Web & Mobile** | React, React Native, Expo, Tailwind CSS |
+| **Backend & Data** | Node.js, Express, PostgreSQL, Prisma, REST APIs |
+| **AI Development** | Claude, Claude Code, OpenAI APIs, MCP, AI-assisted development |
+| **Engineering** | Git, GitHub Actions, CI/CD, Azure, application architecture |
 
-**Frontend & Mobile**
+I enjoy learning new technologies, but I'm much more interested in what they make possible than in collecting frameworks.
 
-React · React Native · HTML/CSS · Tailwind CSS
+## Engineering, Leadership & Education
 
-**Backend & Data**
+I started my career as a software engineer and eventually moved into technology leadership, product development, consulting, and education.
 
-Node.js · Express · PostgreSQL · Prisma · REST APIs
+That combination has shaped how I approach my work. I care about the engineering details, but I also care about whether we're solving the right problem and creating something valuable.
 
-**AI & Developer Tools**
+Some highlights from my career:
 
-Claude · Claude Code · OpenAI APIs · MCP · AI-assisted development
+- **Technology Leadership:** Lead innovation, research, and development initiatives focused on emerging technologies, AI capabilities, and digital products.
+- **Hands-On Engineering:** Continue designing and building independent applications across web and mobile platforms.
+- **Developer Education:** Have trained thousands of developers, product professionals, and technology leaders.
+- **Course Development:** Have designed and delivered practical training that helps people apply complex technical and product concepts.
+- **Published Author:** Co-authored *Fixing Your Scrum* and *Unlocking Business Agility with Evidence-Based Management*.
+- **Professional Scrum Trainer:** Have spent years helping developers, product professionals, and leaders improve the way they build software.
 
-**Engineering & Delivery**
+I'm currently Director of Innovation, Research, and Development at JMA Resources.
 
-Git · GitHub Actions · CI/CD · Azure · Product Discovery · Technical Architecture
+My independent development work through Mako Technology Labs is separate from my professional employment.
 
-## A Little About My Background
+## How I Think About Software
 
-I began my career as a software developer and eventually moved into technical leadership, product development, consulting, and education.
+**Build something real.**
 
-Along the way, I've:
+Working software creates opportunities to learn that presentations and theoretical discussions rarely provide.
 
-- Built software across multiple languages, platforms, and technology stacks.
-- Led technology teams and product development initiatives.
-- Helped organizations identify opportunities, validate ideas, and deliver products.
-- Taught thousands of developers, product professionals, and technology leaders.
-- Developed technical training and educational content.
-- Co-authored *Fixing Your Scrum* and *Unlocking Business Agility with Evidence-Based Management*.
+**Stay close to the technology.**
 
-I'm currently Director of Innovation, Research, and Development at JMA Resources, where I lead efforts to explore emerging technologies and develop practical products and AI capabilities.
+I believe technical leadership is stronger when it's grounded in a practical understanding of how software is built.
 
-Outside of that work, I continue building independent software products and experimenting with new technologies.
+**Experiment and learn quickly.**
 
-## What Interests Me
+An idea doesn't need a six-month roadmap to be worth testing. Build something small, put it in front of people, and learn.
 
-I'm especially interested in:
+**Know when to stop.**
 
-- How AI is changing software engineering and developer workflows.
-- Building genuinely useful products with small, highly capable teams.
-- Making sophisticated technology accessible to more people.
-- Developer tools, technical education, and AI adoption.
-- The intersection of engineering, product strategy, and business outcomes.
+Not every experiment needs to become a business or even a finished application. Knowing when to redirect effort is part of building good products.
 
-I enjoy working with people who are curious, willing to experiment, and focused on creating something meaningful.
+**Make complexity accessible.**
+
+Technology becomes more valuable when people understand it and can use it effectively. That's a big part of why I enjoy teaching.
+
+**Keep building.**
+
+AI is fundamentally changing software development. I want to continue exploring those changes by actually building things.
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/REPLACE-WITH-YOUR-PROFILE/)
 - [GitHub](https://github.com/agiletodd)
+- [LinkedIn](https://www.linkedin.com/)
 
 ---
 
-*Always building. Always learning.*
+*Still building. Still learning. Still curious.*
