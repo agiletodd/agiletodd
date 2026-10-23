@@ -9,14 +9,14 @@ My work sits at the intersection of software engineering, artificial intelligenc
 
 But I've never stopped writing code.
 
-These days, I'm particularly interested in how AI is changing software development — not just what we can build, but how we build it, how quickly we can experiment, and what smaller teams can accomplish.
+These days, I'm particularly interested in how AI is changing software development. Not just what we can build, but how we build it, how quickly we can experiment, and what smaller teams can accomplish.
 
 I believe the best way to understand technology is to actually use it.
 
 ## What I'm Working On
 
 - **AI Engineering:** Building applications and experimenting with LLM integrations, AI-assisted workflows, and agentic capabilities.
-- **Developer Tooling:** Working with Claude, Claude Code, coding agents, and the Model Context Protocol (MCP).
+- **Developer Tooling:** Working with Claude, Claude Code, other coding agents, and Model Context Protocol (MCP).
 - **Full-Stack Development:** Designing and developing web and mobile applications from initial concept through implementation.
 - **Product Experimentation:** Turning ideas into working software, gathering feedback, and deciding what's worth pursuing.
 - **Developer Education:** Helping developers and technical leaders understand and apply new technologies through hands-on learning.
@@ -109,7 +109,7 @@ The concept centered on using location information to simplify a common coordina
 
 **Status:** Discontinued experiment.
 
-Both projects reinforced something I believe strongly: building software matters, but knowing when to stop investing in an idea matters too.
+Both projects reinforced something I believe strongly. Building software matters, but knowing when to stop investing in an idea matters too.
 
 ## Open Source & Technical Projects
 
@@ -135,7 +135,7 @@ I've worked across several generations of software development, from traditional
 | **AI Development** | Claude, Claude Code, OpenAI APIs, MCP, AI-assisted development |
 | **Engineering** | Git, GitHub Actions, CI/CD, Azure, application architecture |
 
-I'm more interested in what technology makes possible than in collecting frameworks.
+I'm more interested in what technology makes possible than in collecting frameworks. I prefer to be technology agnostic and chose technologies that are fit for purpose.
 
 ## Engineering, Leadership & Education
 
