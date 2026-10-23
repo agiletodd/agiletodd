@@ -109,7 +109,7 @@ The concept centered on using location information to simplify a common coordina
 
 **Status:** Discontinued experiment.
 
-Both projects reinforced something I believe strongly. Building software matters, but knowing when to stop investing in an idea matters too.
+Both projects reinforced something I believe strongly. Building software matters, but knowing when to stop investing is vitally important.
 
 ## Open Source & Technical Projects
 
@@ -135,7 +135,7 @@ I've worked across several generations of software development, from traditional
 | **AI Development** | Claude, Claude Code, OpenAI APIs, MCP, AI-assisted development |
 | **Engineering** | Git, GitHub Actions, CI/CD, Azure, application architecture |
 
-I'm more interested in what technology makes possible than in collecting frameworks. I prefer to be technology agnostic and chose technologies that are fit for purpose.
+I'm more interested in what technology makes possible than in collecting frameworks. I prefer to stay technology-agnostic and choose technologies based on the problem I'm trying to solve.
 
 ## Engineering, Leadership & Education
 
