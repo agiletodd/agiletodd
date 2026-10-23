@@ -5,11 +5,9 @@
 
 I'm a software developer turned technology leader who still loves building things.
 
-My work sits at the intersection of software engineering, artificial intelligence, product development, and developer education. I've spent much of my career helping organizations and teams build better products, while continuing to write code, experiment with new technologies, and turn ideas into working software.
+My work sits at the intersection of software engineering, artificial intelligence, product development, and developer education. I've led technology teams, taught thousands of developers and technology professionals, written books, and helped organizations navigate complex technical and product challenges.
 
-I've led technology teams, taught thousands of developers and technology professionals, written books, and helped organizations navigate complex technical and product challenges.
-
-But I've never stopped building software.
+But I've never stopped writing code.
 
 These days, I'm particularly interested in how AI is changing software development — not just what we can build, but how we build it, how quickly we can experiment, and what smaller teams can accomplish.
 
@@ -20,7 +18,7 @@ I believe the best way to understand technology is to actually use it.
 - **AI Engineering:** Building applications and experimenting with LLM integrations, AI-assisted workflows, and agentic capabilities.
 - **Developer Tooling:** Working with Claude, Claude Code, coding agents, and the Model Context Protocol (MCP).
 - **Full-Stack Development:** Designing and developing web and mobile applications from initial concept through implementation.
-- **Product Experimentation:** Turning ideas into working software, getting feedback, and deciding what's worth pursuing.
+- **Product Experimentation:** Turning ideas into working software, gathering feedback, and deciding what's worth pursuing.
 - **Developer Education:** Helping developers and technical leaders understand and apply new technologies through hands-on learning.
 
 ## Products I've Built
@@ -29,7 +27,7 @@ My brother and I started **Mako Technology Labs** as a way for us to continually
 
 Our work spans mobile development, AI, external data integrations, analytics, and practical utilities.
 
-Most source repositories are private because these are independently owned products. Some projects become released applications; others remain experiments. Both have taught us a great deal about engineering and product development.
+We keep most of our source code private because these are independently developed applications. Some make it into people's hands, others remain experiments, and plenty get abandoned along the way. That's part of the fun of building software.
 
 ### BiteSignal
 **Fishing Intelligence & Forecasting**
@@ -42,6 +40,11 @@ An application designed to help anglers make more informed decisions about when 
 
 **Engineering focus:** External API integration, data modeling, algorithms, mobile development, and visualization.
 
+<!-- Add when available:
+![BiteSignal fishing forecast](assets/bitesignal.png)
+[View BiteSignal](YOUR_PRODUCT_URL)
+-->
+
 ### RollJournal
 **Brazilian Jiu-Jitsu Training & Analytics**
 
@@ -53,6 +56,11 @@ An application designed to help Brazilian Jiu-Jitsu practitioners track their tr
 
 **Engineering focus:** Mobile application development, data modeling, analytics, user experience, and subscriptions.
 
+<!-- Add when available:
+![RollJournal training analytics](assets/rolljournal.png)
+[View RollJournal](YOUR_PRODUCT_URL)
+-->
+
 ### Blue DEF Decoder
 **A Practical Mobile Utility**
 
@@ -61,6 +69,11 @@ A mobile application that decodes Diesel Exhaust Fluid manufacturing codes to he
 The idea came from a simple problem: information people needed was available, but difficult to interpret.
 
 **Engineering focus:** Domain-specific decoding logic, mobile development, and straightforward user experience.
+
+<!-- Add when available:
+![Blue DEF Decoder application](assets/bluedefdecoder.png)
+[View Blue DEF Decoder](YOUR_PRODUCT_URL)
+-->
 
 ### Strength Training Applications
 
@@ -96,7 +109,7 @@ The concept centered on using location information to simplify a common coordina
 
 **Status:** Discontinued experiment.
 
-Both projects reinforced something I believe strongly: shipping software matters, but knowing when to stop investing in an idea matters too.
+Both projects reinforced something I believe strongly: building software matters, but knowing when to stop investing in an idea matters too.
 
 ## Open Source & Technical Projects
 
@@ -122,13 +135,13 @@ I've worked across several generations of software development, from traditional
 | **AI Development** | Claude, Claude Code, OpenAI APIs, MCP, AI-assisted development |
 | **Engineering** | Git, GitHub Actions, CI/CD, Azure, application architecture |
 
-I enjoy learning new technologies, but I'm much more interested in what they make possible than in collecting frameworks.
+I'm more interested in what technology makes possible than in collecting frameworks.
 
 ## Engineering, Leadership & Education
 
 I started my career as a software engineer and eventually moved into technology leadership, product development, consulting, and education.
 
-That combination has shaped how I approach my work. I care about the engineering details, but I also care about whether we're solving the right problem and creating something valuable.
+That combination has shaped how I approach my work. I care about engineering details, but I also care about whether we're solving the right problem and creating something valuable.
 
 Some highlights from my career:
 
@@ -151,7 +164,7 @@ Working software creates opportunities to learn that presentations and theoretic
 
 **Stay close to the technology.**
 
-I believe technical leadership is stronger when it's grounded in a practical understanding of how software is built.
+Technical leadership is stronger when it's grounded in a practical understanding of how software is built.
 
 **Experiment and learn quickly.**
 
@@ -165,14 +178,9 @@ Not every experiment needs to become a business or even a finished application. 
 
 Technology becomes more valuable when people understand it and can use it effectively. That's a big part of why I enjoy teaching.
 
-**Keep building.**
-
-AI is fundamentally changing software development. I want to continue exploring those changes by actually building things.
-
 ## Connect
 
 - [GitHub](https://github.com/agiletodd)
-- [LinkedIn](https://www.linkedin.com/)
 
 ---
 
