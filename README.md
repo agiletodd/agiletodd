@@ -19,43 +19,53 @@ I believe the best way to understand technology is to actually use it.
 - **Product experimentation:** Rapidly validating ideas, learning from real users, and turning promising concepts into useful products.
 - **Developer education:** Helping developers and technology leaders understand and apply emerging technologies.
 
-## Selected Products & Projects
 
-Most of my development work happens in private repositories, including independent products developed through Mako.
+## Products I've Built
 
-These are real applications, not just coding exercises. I enjoy taking an idea from concept to working software, making architecture decisions, solving technical problems, and continuously improving the product.
+I co-own Mako Technology Labs, where my brother and I independently design, build, and ship software products.
 
-### Mako — Independent Software Products
+Our work spans AI applications, mobile apps, developer tools, fitness technology, and practical utilities.
 
-*Selected independently developed applications. Source code is private, but product demonstrations and technical details are available where appropriate.*
+Most source repositories are private because these are independently owned products, but the applications are real, deployed software.
 
-**[Product Name] — [Short Product Description]**
+### BiteSignal
+**Fishing intelligence and forecasting**
 
-[Two or three sentences describing the problem, the application, and your technical contribution.]
+A fishing application combining tidal conditions, weather, barometric pressure, solunar activity, and other environmental data to help anglers identify productive fishing windows.
 
-**Technologies:** [React, Node.js, PostgreSQL, Claude, etc.]
+Includes scoring algorithms, fishing forecasts, catch tracking, and analytics.
 
-[Live Application](#) | [Technical Overview](#)
+### RollJournal
+**Brazilian Jiu-Jitsu training and analytics**
+
+A training application for tracking classes, sparring sessions, techniques, training partners, and progress over time.
+
+Includes training analytics, visualization, and subscription functionality.
+
+### BingeGenie
+**AI-powered entertainment discovery**
+
+An AI-powered streaming recommendation application designed to help users discover what to watch.
+
+### MeetInTheMiddle
+**Location-based group planning**
+
+An application that helps groups identify geographically central places to meet.
+
+### Blue DEF Decoder
+**Practical mobile utility**
+
+A mobile application that decodes Diesel Exhaust Fluid manufacturing codes to help users determine production dates and assess product freshness.
+
+### Strength Training Applications
+**Smolov Squat Tracker and Wendler 5/3/1**
+
+Mobile applications designed around established strength-training programs, making it easier to track training progression and workouts.
 
 ---
 
-**[Product Name] — [Short Product Description]**
+These projects are developed independently of my professional employment. Source code remains private, but I'm happy to discuss architecture, implementation decisions, and the development process.
 
-[Two or three sentences describing the product, what makes it interesting, and the engineering challenges involved.]
-
-**Technologies:** [Relevant technologies]
-
-[Live Application](#) | [Technical Overview](#)
-
----
-
-**[Product Name] — [Short Product Description]**
-
-[Two or three sentences explaining what you built and why.]
-
-**Technologies:** [Relevant technologies]
-
-[Live Application](#) | [Technical Overview](#)
 
 ### TrueNarrative.io
 
